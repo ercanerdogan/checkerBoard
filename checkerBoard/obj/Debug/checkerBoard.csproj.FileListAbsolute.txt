@@ -1,0 +1,9 @@
+E:\Projects\train_interview\checkerBoard\checkerBoard\bin\Debug\checkerBoard.exe.config
+E:\Projects\train_interview\checkerBoard\checkerBoard\bin\Debug\checkerBoard.exe
+E:\Projects\train_interview\checkerBoard\checkerBoard\bin\Debug\checkerBoard.pdb
+E:\Projects\train_interview\checkerBoard\checkerBoard\obj\Debug\checkerBoard.csprojResolveAssemblyReference.cache
+E:\Projects\train_interview\checkerBoard\checkerBoard\obj\Debug\checkerBoard.Form1.resources
+E:\Projects\train_interview\checkerBoard\checkerBoard\obj\Debug\checkerBoard.Properties.Resources.resources
+E:\Projects\train_interview\checkerBoard\checkerBoard\obj\Debug\checkerBoard.csproj.GenerateResource.Cache
+E:\Projects\train_interview\checkerBoard\checkerBoard\obj\Debug\checkerBoard.exe
+E:\Projects\train_interview\checkerBoard\checkerBoard\obj\Debug\checkerBoard.pdb
