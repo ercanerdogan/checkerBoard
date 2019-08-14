@@ -19,6 +19,11 @@ namespace checkerBoard
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            GenerateCheckerBoard();
+        }
+
+        private void GenerateCheckerBoard()
+        {
             Button[,] buttons = new Button[8, 8];
             int top = 0;
             int left = 0;
@@ -33,7 +38,7 @@ namespace checkerBoard
                     buttons[i, j].Left = left;
                     buttons[i, j].Top = top;
                     left += 50;
-                    if ((i+j) %2 ==0)
+                    if ((i + j) % 2 == 0)
                     {
                         buttons[i, j].BackColor = Color.Black;
 
